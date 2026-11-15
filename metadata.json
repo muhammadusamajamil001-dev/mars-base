@@ -1,0 +1,6 @@
+{
+  "name": "Red Planet Rookie: Mars Base Commander",
+  "description": "Explore a vast 3D Martian open world, collect crystals, dodge swirling dust devils, and build your own Mars base in Red Planet Rookie: Mars Base Commander.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
